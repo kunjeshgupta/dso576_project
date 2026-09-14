@@ -5,7 +5,7 @@ Keep one username per line and delete unused lines.
 
 kunjeshgupta
 
-HosungKim48git 
+HosungKim48
 
 github-username-3
 
