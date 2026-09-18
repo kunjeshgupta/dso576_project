@@ -12,5 +12,3 @@ wenqilu-657
 navyagup014
 
 LoreleiAnnVentura
-
-github-username-6
